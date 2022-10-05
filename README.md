@@ -1,5 +1,4 @@
-# zoom-autojoiner
-
+# zoom-meeting-avoider
 ## What is this?
 A joke script to avoid zoom meetings.
 
