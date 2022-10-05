@@ -2,7 +2,7 @@
 ## What is this?
 A joke script to avoid zoom meetings.
 
-It was prompted by a comment from another bootcamp student that he was going to 'write a script that logs me in automatically and displays a looped video on zoom'. This script will do exactly that - log you in at a given time and display a looped video.
+It was prompted by a comment from another bootcamp student that he was going to 'write a script that logs me in automatically and displays a looped video on zoom'. This script will do exactly that - log you in at a given time and display a video on your webcam output.
 
 ## Does it actually work?
 Kind of. It works on my machine, but it has quite a few limitations:
