@@ -15,5 +15,3 @@ You can get around this with some shady unofficial webdrivers, but I've chosen n
 
 ### 2. It will probably require tweaking the pyautogui sequence to work on your machine.
 Selenium is OS independent, so it should be able to open the zoom call at the specified time, but actually launching the application and turning video on is dependent on pyautogui. Every machine will have different shortcuts and keybindings, which will probably throw pyautogui off. You'll probably need to change the sequence.
-
-### 3. The looping function currently is not working, although I should be able to fix it.
